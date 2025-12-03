@@ -6,8 +6,7 @@
 Create a menu-driven calculator in C, using function pointers to perform various mathematical operations. Gradually added features with each update.
 
 ## Features & Updates
-
- - Initial version – 2.12.2025
+Initial version – 2.12.2025
  - Addition
  - Subtraction
  - Multiplication
@@ -24,4 +23,14 @@ Create a menu-driven calculator in C, using function pointers to perform various
  - Continuous menu loop with exit option
  - Better error handling (e.g., division by zero)
 
-## ✅ Status: Project_1 In Work
+
+
+## Update
+Initial version – 3.12.2025
+ - Operation history
+ - Continuous menu loop with exit option
+ - Better error handling
+
+
+
+## ✅ Status: Project_1 completed
